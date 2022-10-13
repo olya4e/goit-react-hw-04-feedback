@@ -1,0 +1,10 @@
+.list {
+    font-size: 18px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.value {
+    font-weight: bold;
+    color: #174ea6;
+}

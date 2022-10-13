@@ -1,0 +1,9 @@
+.notificaton {
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    width: auto;
+    background-color: rgb(82, 199, 228);
+    border-radius: 5px;
+}
